@@ -6,10 +6,10 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 ### The Final Data Set Tidy.csv contains the following variables
   1. act
     - This is the full label for the activity performed (i.e. LAYING)
-  2. subject
+  2. subject (i.e. 2)
     - This is the id number for the subject
   3. feature
-    - This is the specific feature
+    - This is the specific feature (i.e. fBodyGyro-std()-Y)
     - Only the mean and standard deviations remain in this dataset
   4. mean
     - This is the mean for all observations rolled up by act, subject, and feature
